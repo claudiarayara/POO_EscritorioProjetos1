@@ -1,0 +1,11 @@
+prefixo,tipo,velocidadeCruzeiro,autonomia,empresaManutencao,nomeCiaAerea,maxPassageiros,pesoMax
+DWF,PEQ,920,250,Aerotec-Manutenção,0,0,0
+JPC,PEQ,190,200,Aerotec-Manutenção,0,0,0
+UTR,PEQ,800,300,Aerotec-Manutenção,0,0,0
+ZGQ,PAS,850,1300,0,Airlines,1000,0
+KJI,PAS,200,1200,0,Airlines,100,0
+QAS,PAS,900,1000,0,Avoação,200,0
+VTE,PAS,750,800,0,Avoação,200,0
+WRY,CAR,790,100,0,CargasExpress,0,1000
+FHA,CAR,150,1200,0,CargasExpress,0,1000
+MNO,CAR,800,800,0,CargasExpress,0,1000
